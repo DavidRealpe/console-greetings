@@ -11,7 +11,7 @@ public class Greetings{
 	}
 
 	public String sayHi(){
-		return "Hello "+name;
+		return "Hello "+name+" :3";
 	}
 
 	public String sayGoodMorning(){
@@ -19,7 +19,7 @@ public class Greetings{
 	}
 
 	public String sayGoodBye(){
-		return "Good Bye"+lastName;
+		return "Good Bye "+lastName;
 	}
 
 }
